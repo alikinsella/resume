@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+  font-family: sans-serif;
+  line-height: 40%;
+}
+h3 {
+  color: #727070;
+}
+.experience {
+  line-height: 40%;
+}
+.experience h3 {
+  padding-top: 15px;
+}
+.education {
+  line-height: 40%;
+}
+.education h3 {
+  padding-top: 15px;
+}
+.dates {
+  float: right;
+}
+.plea {
+  text-align: center;
+}
